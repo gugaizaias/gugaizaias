@@ -15,4 +15,4 @@ Frameworks/Bibliotecas: React, Angular, Tailwind CSS
 
 Bancos de dados: MongoDB, MySQL, PostgreSQL
 
-Controle de versão:
+Controle de versão: Git
