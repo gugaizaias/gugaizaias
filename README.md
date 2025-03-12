@@ -2,4 +2,3 @@ Olá! Eu sou Gustavo Izaias, também conhecido como @gugaizaias 👀 Estou inter
 💻 Curso Análise e Desenvolvimento de Sistemas.
 🌱 Conhecimento em Java, JavaScript, Typescript, React, Angular, Tailwind, MongoDb, MySql, Postgre e Git.
 
-![Uploading image.png…]()
