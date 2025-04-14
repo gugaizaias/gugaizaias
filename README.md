@@ -1,18 +1,22 @@
      Olá! Eu sou Gustavo Izaias
 👋 Também conhecido como @gugaizaias
 
-👀 Estou interessado em: Desenvolver projetos criativos e inovadores, aprender novas tecnologias e compartilhar conhecimentos.
+Sou Gustavo Izaias Furtado, profissional em constante evolução, com uma trajetória voltada para a inclusão, acessibilidade e tecnologia. Atualmente curso Análise e Desenvolvimento de Sistemas no IFRO e Letras/Libras na UNIR, onde alio conhecimento técnico e linguístico para desenvolver soluções que impactam positivamente a vida das pessoas, especialmente da comunidade surda.
 
-💻 Formação: Cursando Análise e Desenvolvimento de Sistemas e LETRAS LIBRAS.
+Tenho fluência em Libras e inglês, o que me permite atuar com interpretação, tradução e desenvolvimento de sistemas acessíveis. Tenho experiência como estagiário no Detran - Coordenadoria Metropolitana de Trânsito da Capital - DETRAN-COMETRAN, além de passagens por empresas como a Mav. Construtora Ltda., onde atuei como jovem aprendiz.
 
-🌟 Sobre mim: Sou dedicado a evoluir constantemente meus conhecimentos tecnológicos para alcançar a excelência em projetos e trabalhos. Também sou um entusiasta de código aberto, contribuindo e dando estrelas nos repositórios do GitHub sempre que possível.
+Sou uma pessoa comprometida, colaborativa e apaixonada por projetos que envolvam educação, tecnologia e impacto social. Estou sempre em busca de novos desafios onde eu possa aprender, contribuir e crescer.
 
-🌱 Conhecimentos técnicos:
+💡Minhas principais competências incluem:
 
-Linguagens: Java, JavaScript, TypeScript
+✅Comunicação Interpessoal
 
-Frameworks/Bibliotecas: React, Angular, Tailwind CSS
+✅Organização e Planejamento
 
-Bancos de dados: MongoDB, MySQL, PostgreSQL
+✅Trabalho em Equipe
 
-Controle de versão: Git
+✅Acessibilidade e Inclusão
+
+✅Desenvolvimento de Sistemas
+
+📌 Acredito que a tecnologia deve ser inclusiva e que a comunicação é uma ponte poderosa para transformar realidades.
