@@ -15,8 +15,6 @@ Sou uma pessoa comprometida, colaborativa e apaixonada por projetos que envolvam
 
 ✅Trabalho em Equipe
 
-✅Acessibilidade e Inclusão
-
 ✅Desenvolvimento de Sistemas
 
 📌 Acredito que a tecnologia deve ser inclusiva e que a comunicação é uma ponte poderosa para transformar realidades.
