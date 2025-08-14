@@ -1,7 +1,7 @@
      Olá! Eu sou Gustavo Izaias
 👋 Também conhecido como @gugaizaias
 
-Sou Gustavo Izaias Furtado, profissional em constante evolução, com uma trajetória voltada para a inclusão, acessibilidade e tecnologia. Atualmente curso Análise e Desenvolvimento de Sistemas no IFRO e Letras/Libras na UNIR, onde alio conhecimento técnico e linguístico para desenvolver soluções que impactam positivamente a vida das pessoas, especialmente da comunidade surda.
+Sou Gustavo Izaias, profissional em constante evolução, com uma trajetória voltada para a inclusão, acessibilidade e tecnologia. Atualmente curso Análise e Desenvolvimento de Sistemas no IFRO e Letras/Libras na UNIR, onde alio conhecimento técnico e linguístico para desenvolver soluções que impactam positivamente a vida das pessoas, especialmente da comunidade surda.
 
 Tenho fluência em Libras e inglês, o que me permite atuar com interpretação, tradução e desenvolvimento de sistemas acessíveis. Tenho experiência como estagiário no Detran - Coordenadoria Metropolitana de Trânsito da Capital - DETRAN-COMETRAN, além de passagens por empresas como a Mav. Construtora Ltda., onde atuei como jovem aprendiz.
 
